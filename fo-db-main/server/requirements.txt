@@ -1,0 +1,5 @@
+pyinstaller
+Flask
+SQLAlchemy
+waitress
+pyOpenSSL
